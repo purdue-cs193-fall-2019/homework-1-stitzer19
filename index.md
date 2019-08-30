@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sam Titzer's First CS193 Homework
 
 This is my website
 
