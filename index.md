@@ -1,8 +1,10 @@
 ## Sam Titzer's First CS193 Homework
 
-This is my website
+# My Favorite Things about CS193
+- Having Class with My Friends
+- Having a Great Place to Ask Questions About CS
+- It's Not An Early Class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
